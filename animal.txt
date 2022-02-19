@@ -1,4 +1,5 @@
 cat
-tigr
+dog
 Goat
 hen
+lion
